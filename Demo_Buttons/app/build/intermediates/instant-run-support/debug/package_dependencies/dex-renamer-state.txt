@@ -1,0 +1,7 @@
+#Thu Sep 14 13:03:48 EDT 2017
+base.0=/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_1eb481bda4234d84ca76deb89df59e9ff82f9ccc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a85dfe1e558dff052a298dee040fed6321deff7c/classes.dex
+base.1=/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a85dfe1e558dff052a298dee040fed6321deff7c
+file.0=/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_1eb481bda4234d84ca76deb89df59e9ff82f9ccc/classes.dex
