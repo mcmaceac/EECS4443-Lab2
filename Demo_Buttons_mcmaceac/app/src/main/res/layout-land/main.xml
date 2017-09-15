@@ -26,21 +26,23 @@
             android:textAppearance="?android:attr/textAppearanceMedium" />
 
         <TableLayout
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:layout_marginTop="16dp"
             android:stretchColumns="*">
 
-            <TableRow android:layout_width="0dp">
+            <TableRow
+                android:layout_width="0dp"
+                android:layout_weightSum="1" >
 
                 <Button
                     android:id="@+id/button"
                     android:layout_height="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_alignParentLeft="true"
                     android:layout_alignParentRight="false"
                     android:layout_centerVertical="true"
-                    android:layout_weight="1"
                     android:onClick="buttonClick"
                     android:text="@string/buttonLabel"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
@@ -48,9 +50,9 @@
                 <CheckBox
                     android:id="@+id/checkbox"
                     android:layout_height="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_centerVertical="true"
                     android:layout_toRightOf="@+id/button"
-                    android:layout_weight="1"
                     android:onClick="buttonClick"
                     android:text="@string/checkboxLabel"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
@@ -58,16 +60,15 @@
                 <RadioGroup
                     android:id="@+id/radioGroup"
                     android:layout_height="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_centerVertical="true"
                     android:layout_toRightOf="@+id/checkbox"
-                    android:layout_weight="1"
                     android:orientation="vertical">
 
                     <RadioButton
                         android:id="@+id/radiobutton1"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1"
                         android:onClick="buttonClick"
                         android:text="@string/redButtonLabel"
                         android:textAppearance="?android:attr/textAppearanceSmall" />
@@ -76,7 +77,6 @@
                         android:id="@+id/radiobutton2"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1"
                         android:onClick="buttonClick"
                         android:text="@string/greenButtonLabel"
                         android:textAppearance="?android:attr/textAppearanceSmall" />
@@ -85,7 +85,6 @@
                         android:id="@+id/radiobutton3"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1"
                         android:onClick="buttonClick"
                         android:text="@string/blueButtonLabel"
                         android:textAppearance="?android:attr/textAppearanceSmall" />
@@ -94,10 +93,10 @@
                 <ToggleButton
                     android:id="@+id/togglebutton"
                     android:layout_height="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_centerInParent="false"
                     android:layout_centerVertical="true"
                     android:layout_toRightOf="@+id/radioGroup"
-                    android:layout_weight="1"
                     android:onClick="buttonClick"
                     android:text="@string/toggleButtonLabel"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
@@ -105,9 +104,9 @@
                 <ImageButton
                     android:id="@+id/backspacebutton"
                     android:layout_height="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_centerVertical="true"
                     android:layout_toRightOf="@+id/togglebutton"
-                    android:layout_weight="1"
                     android:contentDescription="@string/backspaceButtonText"
                     android:onClick="buttonClick"
                     android:padding="10dp"
@@ -116,9 +115,9 @@
                 <ImageButton
                     android:id="@+id/smilebutton"
                     android:layout_height="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_centerVertical="true"
                     android:layout_toRightOf="@+id/backspacebutton"
-                    android:layout_weight="1"
                     android:background="@null"
                     android:contentDescription="@string/backspaceButtonText"
                     android:elevation="0dp"
@@ -129,52 +128,53 @@
 
             <TableRow
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="match_parent"
+                android:layout_weightSum="1">
 
                 <TextView
                     android:id="@+id/buttonclickstatus"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:maxWidth="100dp"
+                    android:layout_width="0dp"
                     android:gravity="left"
+                    android:maxWidth="100dp"
                     android:padding="5dp" />
 
                 <TextView
                     android:id="@+id/checkboxclickstatus"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+                    android:layout_width="0dp"
                     android:gravity="left"
                     android:padding="5dp" />
 
                 <TextView
                     android:id="@+id/radiobuttonclickstatus"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+                    android:layout_width="0dp"
                     android:gravity="left"
                     android:padding="5dp" />
 
                 <TextView
                     android:id="@+id/togglebuttonclickstatus"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+                    android:layout_width="0dp"
                     android:gravity="left"
                     android:padding="5dp" />
 
                 <TextView
                     android:id="@+id/backspacebuttonclickstatus"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:maxWidth="100dp"
+                    android:layout_width="0dp"
                     android:gravity="left"
+                    android:maxWidth="100dp"
                     android:padding="5dp"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
 
                 <TextView
                     android:id="@+id/smilebuttonclickstatus"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:maxWidth="100dp"
+                    android:layout_width="0dp"
                     android:gravity="left"
+                    android:maxWidth="100dp"
                     android:padding="5dp"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </TableRow>
