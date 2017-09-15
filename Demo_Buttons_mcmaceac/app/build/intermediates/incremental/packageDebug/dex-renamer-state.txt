@@ -1,0 +1,7 @@
+#Fri Sep 15 12:00:30 EDT 2017
+base.0=/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85d028bcd9f14716f45b42c17f9f2fdcbe5dacaa
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e04572823f72d6b5202b800be2fc82814f6d0f57/classes.dex
+base.1=/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e04572823f72d6b5202b800be2fc82814f6d0f57
+file.0=/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85d028bcd9f14716f45b42c17f9f2fdcbe5dacaa/classes.dex
