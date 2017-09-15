@@ -3,39 +3,39 @@
 
     <item
         is-multidex="true"
-        jar="/eecs/local/pkg/android-studio-sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jar="/Users/mcmaceac/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_1eb481bda4234d84ca76deb89df59e9ff82f9ccc/classes.dex" />
+        <dex dex="/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0e029e58fc67cd35e306bd062b0174f577b191aa/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="45d1d40de82c4b1b6245efcc12f127d8e2be54f5">
-        <dex dex="/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d58df9d6794c34bfcaaf19f4da8f1a8f2a5806d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_df49a068fc3a15adc5d5a6e666f205f06256365f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/eecs/home/mcmaceac/.android/build-cache/89b6c920d49bb1146a601519eb00c152f0340f56/output/jars/classes.jar"
+        jar="/Users/mcmaceac/.android/build-cache/34be78a716fbe11f486541f850d9097bc4361bd0/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a85dfe1e558dff052a298dee040fed6321deff7c/classes.dex" />
+        <dex dex="/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91a20dff0144c21d9bf17a36b67f24c9fd34dc52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e04572823f72d6b5202b800be2fc82814f6d0f57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87d75fb93a5bec1996841a7182b6126e91cdd5a2">
+        <dex dex="/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85d028bcd9f14716f45b42c17f9f2fdcbe5dacaa/classes.dex" />
     </item>
 
 </items>

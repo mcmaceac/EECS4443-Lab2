@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/src/main/res/layout/main.xml"
-    },
-    {
-        "merged": "/cs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/D:\\School\\EECS4443\\Demo_Buttons\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "/cs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/D:\\School\\EECS4443\\Demo_Buttons\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/src/main/res/layout/main.xml"
     }
 ]

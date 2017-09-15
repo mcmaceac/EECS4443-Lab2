@@ -1,34 +1,18 @@
 [
     {
-        "merged": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
-        "source": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/src/main/res/drawable-mdpi/icon.png"
+        "merged": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/res/merged/debug/drawable-mdpi/smileyred.png",
+        "source": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/src/main/res/drawable-mdpi/smileyred.png"
     },
     {
-        "merged": "/cs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/D:\\School\\EECS4443\\Demo_Buttons\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
-        "source": "/cs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/D:\\School\\EECS4443\\Demo_Buttons\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+        "merged": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/res/merged/debug/drawable-mdpi/smiley.png",
+        "source": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/src/main/res/drawable-mdpi/smiley.png"
     },
     {
-        "merged": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/res/merged/debug/drawable-mdpi/smiley.png",
-        "source": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/src/main/res/drawable-mdpi/smiley.png"
+        "merged": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/res/merged/debug/drawable-mdpi/bs_normal.png",
+        "source": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/src/main/res/drawable-mdpi/bs_normal.png"
     },
     {
-        "merged": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/res/merged/debug/drawable-mdpi/smileyred.png",
-        "source": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/src/main/res/drawable-mdpi/smileyred.png"
-    },
-    {
-        "merged": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/build/intermediates/res/merged/debug/drawable-mdpi/bs_normal.png",
-        "source": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/src/main/res/drawable-mdpi/bs_normal.png"
-    },
-    {
-        "merged": "/cs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/D:\\School\\EECS4443\\Demo_Buttons\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bs_normal.png",
-        "source": "/cs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/D:\\School\\EECS4443\\Demo_Buttons\\app\\src\\main\\res\\drawable-mdpi\\bs_normal.png"
-    },
-    {
-        "merged": "/cs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/D:\\School\\EECS4443\\Demo_Buttons\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\smileyred.png",
-        "source": "/cs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/D:\\School\\EECS4443\\Demo_Buttons\\app\\src\\main\\res\\drawable-mdpi\\smileyred.png"
-    },
-    {
-        "merged": "/cs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/D:\\School\\EECS4443\\Demo_Buttons\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\smiley.png",
-        "source": "/cs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/D:\\School\\EECS4443\\Demo_Buttons\\app\\src\\main\\res\\drawable-mdpi\\smiley.png"
+        "merged": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/src/main/res/drawable-mdpi/icon.png"
     }
 ]

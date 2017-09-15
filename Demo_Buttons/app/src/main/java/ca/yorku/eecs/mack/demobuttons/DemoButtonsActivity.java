@@ -181,6 +181,77 @@ public class DemoButtonsActivity extends Activity
 		init();
 	}
 
+	@Override
+	public void onSaveInstanceState(Bundle outState) {
+		super.onSaveInstanceState(outState);
+		//outState.putBoolean("red", rb1Status);		//storing status of all 3 radio buttons
+		//outState.putBoolean("green", rb2Status);
+		//outState.putBoolean("blue", rb3Status);
+		outState.putString("button", buttonClickString);	//storing simple button's output
+		//outState.putBoolean("checkbox", checkStatus);		//storing checkbox's status
+		//outState.putString();
+		outState.putString("back", backspaceString);		//storing the backspace output
+		outState.putString("smiley", smileString);			//storing the smiley output
+
+
+	}
+
+	@Override
+	public void onRestoreInstanceState(Bundle savedInstanceState) {
+		super.onRestoreInstanceState(savedInstanceState);
+
+		buttonClickString = savedInstanceState.getString("button");
+		buttonClickStatus.setText(buttonClickString);
+
+		backspaceString = savedInstanceState.getString("back");
+		backspaceButtonClickStatus.setText(backspaceString);
+		
+		smileString = savedInstanceState.getString("smiley");
+		smileButtonClickStatus.setText(smileString);
+
+		// radio button #1 (RED)
+		if (rb1.isChecked())								//setting the radio button status message
+		{
+			//rb1.setChecked(true);
+			radioButtonClickStatus.setText(R.string.red);
+			radioButtonClickStatus.setTextColor(Color.RED);
+		}
+
+		// radio button #2 (GREEN)
+		else if (rb2.isChecked())
+		{
+			//rb2.setChecked(true);
+			radioButtonClickStatus.setText(R.string.green);
+			radioButtonClickStatus.setTextColor(Color.GREEN);
+		}
+
+		// radio button #3 (BLUE)
+		else if (rb3.isChecked())
+		{
+			//rb3.setChecked(true);
+			radioButtonClickStatus.setText(R.string.blue);
+			radioButtonClickStatus.setTextColor(Color.BLUE);
+		}
+
+		if (cb.isChecked())									//setting clickbox status message
+		{
+			cb.setChecked(true);
+			checkBoxClickStatus.setText(R.string.checked);
+		}
+		else
+		{
+			cb.setChecked(false);
+			checkBoxClickStatus.setText(R.string.unchecked);
+		}
+
+		if (tb.isChecked())									//setting toggle button status message
+			toggleButtonClickStatus.setText(R.string.on);
+		else
+			toggleButtonClickStatus.setText(R.string.off);
+
+
+	}
+
 	private void init()
 	{
 		b = (Button)findViewById(R.id.button);

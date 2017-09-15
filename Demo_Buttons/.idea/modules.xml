@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo_Buttons.iml" filepath="$PROJECT_DIR$/Demo_Buttons.iml" />
       <module fileurl="file:///eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/Demo_Buttons.iml" filepath="/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/Demo_Buttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file:///eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/app.iml" filepath="/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app/app.iml" />
     </modules>
   </component>

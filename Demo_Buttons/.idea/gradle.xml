@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons" />
-            <option value="/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons/app" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
