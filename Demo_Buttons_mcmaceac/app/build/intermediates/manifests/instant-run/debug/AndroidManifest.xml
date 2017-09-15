@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ca.yorku.eecs.mack.demobuttons"
+    package="ca.yorku.eecs.mack.demobuttonsmcmaceac"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -15,7 +15,7 @@
         android:theme="@android:style/Theme.Holo" >
          >
         <activity
-            android:name="ca.yorku.eecs.mack.demobuttons.DemoButtonsActivity"
+            android:name="ca.yorku.eecs.mack.demobuttonsmcmaceac.DemoButtonsmcmaceacActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,7 +26,7 @@
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
-            android:authorities="ca.yorku.eecs.mack.demobuttons.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="ca.yorku.eecs.mack.demobuttonsmcmaceac.com.android.tools.fd.runtime.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 
