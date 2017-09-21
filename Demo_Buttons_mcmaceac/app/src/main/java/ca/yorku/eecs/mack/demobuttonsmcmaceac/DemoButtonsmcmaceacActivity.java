@@ -12,7 +12,7 @@ import android.widget.TextView;
 import android.widget.ToggleButton;
 
 /**
- * Demo_Android - with modifications by Matthew MacEachern
+ * Demo_Buttons - with modifications by Matthew MacEachern
  *
  * Login ID - mcmaceac
  * Student ID - 213960216
