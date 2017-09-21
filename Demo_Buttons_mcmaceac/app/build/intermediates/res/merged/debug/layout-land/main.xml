@@ -29,10 +29,9 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
-            android:layout_marginTop="16dp"
-            android:stretchColumns="*">
+            android:layout_marginTop="16dp">
 
-            <TableRow android:layout_width="0dp">
+            <TableRow>
 
                 <Button
                     android:id="@+id/button"
@@ -135,7 +134,6 @@
                     android:id="@+id/buttonclickstatus"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:maxWidth="100dp"
                     android:gravity="left"
                     android:padding="5dp" />
 
@@ -164,7 +162,6 @@
                     android:id="@+id/backspacebuttonclickstatus"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:maxWidth="100dp"
                     android:gravity="left"
                     android:padding="5dp"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
@@ -173,7 +170,6 @@
                     android:id="@+id/smilebuttonclickstatus"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:maxWidth="100dp"
                     android:gravity="left"
                     android:padding="5dp"
                     android:textAppearance="?android:attr/textAppearanceSmall" />

@@ -1,4 +1,0 @@
-#Fri Sep 15 09:56:58 EDT 2017
-base.0=/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
-renamed.0=classes.dex
-file.0=/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons_mcmaceac/app/build/intermediates/res/merged/debug/drawable-ldpi/smiley.png",
-        "source": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons_mcmaceac/app/src/main/res/drawable-ldpi/smiley.png"
+        "merged": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons_mcmaceac/app/build/intermediates/res/merged/debug/drawable-ldpi/smileyred.png",
+        "source": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons_mcmaceac/app/src/main/res/drawable-ldpi/smileyred.png"
     },
     {
-        "merged": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons_mcmaceac/app/build/intermediates/res/merged/debug/drawable-ldpi/smileyred.png",
-        "source": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons_mcmaceac/app/src/main/res/drawable-ldpi/smileyred.png"
+        "merged": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons_mcmaceac/app/build/intermediates/res/merged/debug/drawable-ldpi/smiley.png",
+        "source": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons_mcmaceac/app/src/main/res/drawable-ldpi/smiley.png"
     },
     {
-        "merged": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons_mcmaceac/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
-        "source": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons_mcmaceac/app/src/main/res/drawable-ldpi/icon.png"
+        "merged": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons_mcmaceac/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons_mcmaceac/app/src/main/res/drawable-ldpi/icon.png"
     },
     {
-        "merged": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons_mcmaceac/app/build/intermediates/res/merged/debug/drawable-ldpi/bs_normal.png",
-        "source": "/Users/mcmaceac/Documents/School/EECS4443/lab2/Demo_Buttons_mcmaceac/app/src/main/res/drawable-ldpi/bs_normal.png"
+        "merged": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons_mcmaceac/app/build/intermediates/res/merged/debug/drawable-ldpi/bs_normal.png",
+        "source": "/eecs/home/mcmaceac/4443/Labs/lab2/Demo_Buttons_mcmaceac/app/src/main/res/drawable-ldpi/bs_normal.png"
     }
 ]
